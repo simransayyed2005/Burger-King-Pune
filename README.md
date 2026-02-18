@@ -142,7 +142,7 @@ Waiter filter
 ✔ Overall restaurant revenue performance can be tracked easily
 
 📷 Dashboard Preview
-(Dashboard1.png)
+![Dashboard Preview](Dashboard1.png)
 (Dashboard2.png)
 (Dashboard3.png)
 (Dashboard4.png)
