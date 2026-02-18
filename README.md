@@ -143,9 +143,13 @@ Waiter filter
 
 📷 Dashboard Preview
 ![Dashboard Preview](Dashbaord1.png)
+
 ![Dashboard Preview](Dashboard2.png)
+
 ![Dashboard Preview](Dashboard3.png)
+
 ![Dashboard Preview](Dashboard4.png)
+
 ![Dashboard Preview](Dashboard5.png)
 
 
