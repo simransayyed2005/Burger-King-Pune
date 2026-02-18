@@ -1,4 +1,4 @@
-# Burger-King-Pune
+# Burger-King-Pune Dashboard
 An interactive Excel Sales Analytics Dashboard designed to analyze Burger King’s sales performance, identify top-selling menu items, monitor staff performance, and track monthly revenue trends. This dashboard transforms raw restaurant sales data into meaningful visual insights to support better business and operational decisions.
 An interactive Excel-based Sales Analytics Dashboard built to analyze fast-food sales performance, track revenue trends, and generate actionable business insights from raw sales data.
 This project demonstrates how restaurant sales data can be transformed into meaningful visual stories to support smarter business decisions.
